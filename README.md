@@ -33,7 +33,7 @@ Aplicação web desenvolvida em React com Vite que consome uma API fake criada c
 1. Clone o repositório e acesse a pasta do projeto:
 
 ```bash
-git clone <url-do-repositorio>
+git clone [<url-do-repositorio>](https://github.com/andreluizmf/react-json-server.git)
 cd aula-json-server
 ```
 
