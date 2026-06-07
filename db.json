@@ -1,0 +1,46 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "id": "2",
+      "title": "React consumindo API",
+      "author": "Professor Christien"
+    },
+    {
+      "id": "3",
+      "title": "Aula de Front-end",
+      "author": "UniAcademia"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "body": "some comment",
+      "postId": "1"
+    }
+  ],
+  "profile": [
+    {
+      "id": "1",
+      "name": "typicode"
+    }
+  ],
+  "users": [
+    {
+      "name": "christien l rachid",
+      "email": "christienrachid@gmail.com",
+      "id": "t5o6y45E5Ho"
+    },
+    {
+      "name": "Andre",
+      "email": "andre@gmail.com",
+      "telefone": "21988887654",
+      "id": "ME4xiwEbh9c"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
