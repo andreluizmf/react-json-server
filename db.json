@@ -40,6 +40,12 @@
       "email": "andre@gmail.com",
       "telefone": "21988887654",
       "id": "ME4xiwEbh9c"
+    },
+    {
+      "name": "guilherme",
+      "email": "aaa@gmail.com",
+      "telefone": "32988765432",
+      "id": "cSM8tA4ap8I"
     }
   ],
   "$schema": "./node_modules/json-server/schema.json"

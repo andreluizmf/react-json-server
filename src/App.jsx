@@ -178,7 +178,7 @@ function App() {
 
       <footer className="app-footer">
         <div className="container">
-          <span>Sistema desenvolvido com React + Vite + JSON Server</span>
+          <span>Projeto acadêmico — André Luiz Martins Fávero &amp; Guilherme Otto de Souza Leal &nbsp;·&nbsp; React + Vite + JSON Server</span>
         </div>
       </footer>
     </div>
